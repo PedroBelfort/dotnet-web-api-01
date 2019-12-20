@@ -5,6 +5,7 @@ senha e email da entidade "Usuário".
 
 Siga os seguintes passos para executar a API
 
+
 1 - Crie um banco de dados chamado "Usuarios" no SQL Server.
 
 2 - Atualize o valor da string connection em appsettings.json.
@@ -15,7 +16,9 @@ Siga os seguintes passos para executar a API
 
 5 - Acesse a api por meio da rota https://localhost:5001/api/usuarios
 
+
 Os seguintes métodos foram implementados
+
 
 1 - GetAll() - http://localhost:5000/api/usuarios/
 
