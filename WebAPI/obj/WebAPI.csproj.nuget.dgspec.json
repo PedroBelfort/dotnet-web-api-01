@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro\\Documents\\Projeto\\WebAPI\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\pedro\\Documents\\Projeto\\git\\dotnet-web-api-01\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro\\Documents\\Projeto\\WebAPI\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\pedro\\Documents\\Projeto\\git\\dotnet-web-api-01\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro\\Documents\\Projeto\\WebAPI\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\Documents\\Projeto\\git\\dotnet-web-api-01\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\pedro\\Documents\\Projeto\\WebAPI\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Users\\pedro\\Documents\\Projeto\\git\\dotnet-web-api-01\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro\\Documents\\Projeto\\WebAPI\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\pedro\\Documents\\Projeto\\git\\dotnet-web-api-01\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
